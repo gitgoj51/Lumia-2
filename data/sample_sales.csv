@@ -1,0 +1,71 @@
+date,order_id,product_id,product_name,category,units_sold,unit_price,unit_cost,discount,channel
+2026-03-01,O-30001,P-1001,Everyday Crew Tee,Apparel,12,28,11,18,Store
+2026-03-01,O-30002,P-1004,Insulated Travel Mug,Home,18,24,9,24,Marketplace
+2026-03-02,O-30003,P-1007,Notebook Trio Pack,Office,24,16,5,12,Store
+2026-03-02,O-30004,P-1006,Wireless Charging Pad,Electronics,6,42,21,0,Online
+2026-03-03,O-30005,P-1002,Stretch Denim Jean,Apparel,7,74,32,35,Store
+2026-03-03,O-30006,P-1003,Canvas Weekender Bag,Accessories,5,96,41,0,Online
+2026-03-04,O-30007,P-1008,Cotton Throw Blanket,Home,9,58,24,18,Store
+2026-03-04,O-30008,P-1009,Minimalist Wallet,Accessories,11,38,14,10,Marketplace
+2026-03-05,O-30009,P-1010,LED Desk Lamp,Electronics,4,68,29,0,Online
+2026-03-05,O-30010,P-1005,Bamboo Desk Organizer,Office,13,32,12,13,Store
+2026-03-06,O-30011,P-1001,Everyday Crew Tee,Apparel,14,28,11,20,Store
+2026-03-06,O-30012,P-1004,Insulated Travel Mug,Home,20,24,9,18,Marketplace
+2026-03-07,O-30013,P-1007,Notebook Trio Pack,Office,28,16,5,8,Store
+2026-03-07,O-30014,P-1006,Wireless Charging Pad,Electronics,5,42,21,0,Online
+2026-03-08,O-30015,P-1002,Stretch Denim Jean,Apparel,9,74,32,45,Store
+2026-03-08,O-30016,P-1003,Canvas Weekender Bag,Accessories,4,96,41,0,Online
+2026-03-09,O-30017,P-1008,Cotton Throw Blanket,Home,10,58,24,20,Store
+2026-03-09,O-30018,P-1009,Minimalist Wallet,Accessories,12,38,14,12,Marketplace
+2026-03-10,O-30019,P-1010,LED Desk Lamp,Electronics,5,68,29,0,Online
+2026-03-10,O-30020,P-1005,Bamboo Desk Organizer,Office,11,32,12,8,Store
+2026-03-11,O-30021,P-1001,Everyday Crew Tee,Apparel,15,28,11,16,Store
+2026-03-11,O-30022,P-1004,Insulated Travel Mug,Home,22,24,9,20,Marketplace
+2026-03-12,O-30023,P-1007,Notebook Trio Pack,Office,31,16,5,10,Store
+2026-03-12,O-30024,P-1006,Wireless Charging Pad,Electronics,7,42,21,0,Online
+2026-03-13,O-30025,P-1002,Stretch Denim Jean,Apparel,8,74,32,40,Store
+2026-03-13,O-30026,P-1003,Canvas Weekender Bag,Accessories,6,96,41,0,Online
+2026-03-14,O-30027,P-1008,Cotton Throw Blanket,Home,12,58,24,24,Store
+2026-03-14,O-30028,P-1009,Minimalist Wallet,Accessories,13,38,14,14,Marketplace
+2026-03-15,O-30029,P-1010,LED Desk Lamp,Electronics,6,68,29,0,Online
+2026-03-15,O-30030,P-1005,Bamboo Desk Organizer,Office,14,32,12,10,Store
+2026-03-16,O-30031,P-1001,Everyday Crew Tee,Apparel,16,28,11,22,Store
+2026-03-16,O-30032,P-1004,Insulated Travel Mug,Home,25,24,9,24,Marketplace
+2026-03-17,O-30033,P-1007,Notebook Trio Pack,Office,35,16,5,12,Store
+2026-03-17,O-30034,P-1006,Wireless Charging Pad,Electronics,8,42,21,0,Online
+2026-03-18,O-30035,P-1002,Stretch Denim Jean,Apparel,10,74,32,38,Store
+2026-03-18,O-30036,P-1003,Canvas Weekender Bag,Accessories,7,96,41,0,Online
+2026-03-19,O-30037,P-1008,Cotton Throw Blanket,Home,13,58,24,22,Store
+2026-03-19,O-30038,P-1009,Minimalist Wallet,Accessories,15,38,14,16,Marketplace
+2026-03-20,O-30039,P-1010,LED Desk Lamp,Electronics,6,68,29,0,Online
+2026-03-20,O-30040,P-1005,Bamboo Desk Organizer,Office,15,32,12,12,Store
+2026-03-21,O-30041,P-1001,Everyday Crew Tee,Apparel,18,28,11,24,Store
+2026-03-21,O-30042,P-1004,Insulated Travel Mug,Home,27,24,9,28,Marketplace
+2026-03-22,O-30043,P-1007,Notebook Trio Pack,Office,38,16,5,14,Store
+2026-03-22,O-30044,P-1006,Wireless Charging Pad,Electronics,9,42,21,0,Online
+2026-03-23,O-30045,P-1002,Stretch Denim Jean,Apparel,11,74,32,42,Store
+2026-03-23,O-30046,P-1003,Canvas Weekender Bag,Accessories,8,96,41,0,Online
+2026-03-24,O-30047,P-1008,Cotton Throw Blanket,Home,14,58,24,26,Store
+2026-03-24,O-30048,P-1009,Minimalist Wallet,Accessories,16,38,14,18,Marketplace
+2026-03-25,O-30049,P-1010,LED Desk Lamp,Electronics,7,68,29,0,Online
+2026-03-25,O-30050,P-1005,Bamboo Desk Organizer,Office,16,32,12,14,Store
+2026-03-26,O-30051,P-1001,Everyday Crew Tee,Apparel,19,28,11,26,Store
+2026-03-26,O-30052,P-1004,Insulated Travel Mug,Home,30,24,9,30,Marketplace
+2026-03-27,O-30053,P-1007,Notebook Trio Pack,Office,42,16,5,16,Store
+2026-03-27,O-30054,P-1006,Wireless Charging Pad,Electronics,10,42,21,0,Online
+2026-03-28,O-30055,P-1002,Stretch Denim Jean,Apparel,12,74,32,44,Store
+2026-03-28,O-30056,P-1003,Canvas Weekender Bag,Accessories,9,96,41,0,Online
+2026-03-29,O-30057,P-1008,Cotton Throw Blanket,Home,16,58,24,28,Store
+2026-03-29,O-30058,P-1009,Minimalist Wallet,Accessories,18,38,14,20,Marketplace
+2026-03-30,O-30059,P-1010,LED Desk Lamp,Electronics,8,68,29,0,Online
+2026-03-30,O-30060,P-1005,Bamboo Desk Organizer,Office,18,32,12,16,Store
+2026-03-31,O-30061,P-1001,Everyday Crew Tee,Apparel,20,28,11,28,Store
+2026-03-31,O-30062,P-1004,Insulated Travel Mug,Home,32,24,9,34,Marketplace
+2026-04-01,O-30063,P-1007,Notebook Trio Pack,Office,45,16,5,18,Store
+2026-04-01,O-30064,P-1006,Wireless Charging Pad,Electronics,11,42,21,0,Online
+2026-04-02,O-30065,P-1002,Stretch Denim Jean,Apparel,13,74,32,46,Store
+2026-04-02,O-30066,P-1003,Canvas Weekender Bag,Accessories,10,96,41,0,Online
+2026-04-03,O-30067,P-1008,Cotton Throw Blanket,Home,17,58,24,30,Store
+2026-04-03,O-30068,P-1009,Minimalist Wallet,Accessories,20,38,14,22,Marketplace
+2026-04-04,O-30069,P-1010,LED Desk Lamp,Electronics,9,68,29,0,Online
+2026-04-04,O-30070,P-1005,Bamboo Desk Organizer,Office,19,32,12,18,Store

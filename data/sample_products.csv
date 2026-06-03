@@ -1,0 +1,11 @@
+product_id,product_name,category,current_stock,reorder_point,supplier,lead_time_days
+P-1001,Everyday Crew Tee,Apparel,42,35,Northline Textiles,9
+P-1002,Stretch Denim Jean,Apparel,18,28,Northline Textiles,12
+P-1003,Canvas Weekender Bag,Accessories,75,25,Harbor Goods Co,14
+P-1004,Insulated Travel Mug,Home,130,40,Oak & Forge,8
+P-1005,Bamboo Desk Organizer,Office,22,20,Oak & Forge,10
+P-1006,Wireless Charging Pad,Electronics,16,30,Circuit House,15
+P-1007,Notebook Trio Pack,Office,210,55,Paperlane Supply,6
+P-1008,Cotton Throw Blanket,Home,64,30,Harbor Goods Co,11
+P-1009,Minimalist Wallet,Accessories,31,22,Stitch & Snap,10
+P-1010,LED Desk Lamp,Electronics,25,18,Circuit House,16

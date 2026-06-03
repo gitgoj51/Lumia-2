@@ -1,0 +1,17 @@
+date,expense_type,amount,notes
+2026-01-05,Rent,4200,Monthly storefront rent
+2026-01-08,Payroll,12800,Store and operations payroll
+2026-01-12,Marketing,1850,Local campaign and email creative
+2026-01-20,Utilities,740,Electricity internet and water
+2026-02-05,Rent,4200,Monthly storefront rent
+2026-02-08,Payroll,13250,Store and operations payroll
+2026-02-13,Marketing,2300,Seasonal promotion
+2026-02-21,Utilities,810,Electricity internet and water
+2026-03-05,Rent,4200,Monthly storefront rent
+2026-03-08,Payroll,13600,Store and operations payroll
+2026-03-14,Marketing,2600,Spring catalog production
+2026-03-21,Utilities,790,Electricity internet and water
+2026-04-05,Rent,4200,Monthly storefront rent
+2026-04-08,Payroll,13900,Store and operations payroll
+2026-04-13,Marketing,2100,Search and local ads
+2026-04-22,Utilities,830,Electricity internet and water
